@@ -43,7 +43,7 @@ header {
 .banner {
     height: 700px;
     width: 100%;
-    background-image: url(../Ex_2/pictures/mission_background.jpg);
+    background-image: url(..pictures/mission_background.jpg);
     background-size: cover;
     background-position: center top;
     text-align: center;
@@ -103,7 +103,7 @@ figure {
 
 .location {
     height: 500px;
-    background-image: url(../Ex_2/pictures/locations_background.jpg);
+    background-image: url(../pictures/locations_background.jpg);
     background-size: cover;
     display:flex;
     justify-content: center;
