@@ -43,7 +43,7 @@ header {
 .banner {
     height: 700px;
     width: 100%;
-    background-image: url(..pictures/mission_background.jpg);
+    background-image: url(../pictures/mission_background.jpg);
     background-size: cover;
     background-position: center top;
     text-align: center;
