@@ -29,10 +29,11 @@ header {
 }
 
 .navi {
+    display: flex;
     font-size: 22px;
-    text-align: right;
     width: 100%;
-
+    justify-content: right;
+    align-items: center;
 }
 
 .navi a {
